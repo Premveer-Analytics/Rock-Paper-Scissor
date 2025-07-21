@@ -1,13 +1,38 @@
-# International-Debt-Statistics-Analysis-SQL
+# 🌍 International Debt Statistics Analysis — SQL Project  
 
-Just like citizens go to a bank if they need money to grow economically, countries also approach the World Bank for loans to support development in their countries.
+This project explores global debt statistics using SQL. The analysis is based on the **International Debt dataset** and focuses on extracting key insights about country-level debts, debt indicators, and financial trends.  
 
-This project aims to analyze international debt data collected by the World Bank using sql and provide insights into global debt trends over time.
+---  
 
-# Data Sources
+## 🎯 Project Objectives  
 
-The data used in this project was obtained from the World Bank's international debt statistics database, which can be accessed here: https://www.worldbank.org/en/home
+- Analyze total and average debt of countries  
+- Identify key debt indicators and their frequency  
+- Find countries with the highest debt and their debt categories  
+- Explore long-term debt trends across nations  
 
-The data covers a range of debt indicators including debt-to-GDP ratios, debt service ratios, and external debt stocks and flows. The data is available in multiple formats including CSV and Excel, and can be downloaded directly from the World Bank website.
+---  
 
-#
+## 🛠 SQL Techniques Used  
+
+- `GROUP BY`, `ORDER BY`, `HAVING`  
+- Aggregations (`SUM`, `AVG`, `COUNT`, `MAX`)  
+- `DISTINCT`, Filtering, Limiting Results  
+- Well-commented queries with insights  
+
+---  
+
+## 📊 Key Insights  
+
+- 🇨🇳 **China** holds the highest total debt among all countries  
+- 📈 Long-term debt repayments are the most significant debt indicator globally  
+- 🌐 Six common debt indicators are shared by all countries analyzed  
+
+---  
+
+## 📁 Project Files  
+
+- **International_Debt_Analysis.sql** — Complete SQL script with all queries and comments  
+
+---  
+
